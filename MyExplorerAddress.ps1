@@ -1,0 +1,46 @@
+$Programming = 'G:\Programming'
+$GuitarChords = 'G:\Guitar\Guitar chords'
+$Studying = 'G:\Studying'
+$Work = 'G:\Studying\作业'
+$Entertainment = 'C:\Users\He Linming\Desktop\娱乐'
+$Development = 'C:\Users\He Linming\Desktop\开发'
+$Desktop = 'C:\Users\He Linming\Desktop'
+$Games = 'D:\Games'
+$Media = 'D:\Media'
+$Softwares = 'D:\Softwares'
+$SoftwaresPackage = 'G:\Softwares Package'
+$Script = 'C:\Users\He Linming\Desktop\Script'
+$HeerStudio = 'G:\Heer Studio'
+
+# SIG # Begin signature block
+# MIIFiwYJKoZIhvcNAQcCoIIFfDCCBXgCAQExCzAJBgUrDgMCGgUAMGkGCisGAQQB
+# gjcCAQSgWzBZMDQGCisGAQQBgjcCAR4wJgIDAQAABBAfzDtgWUsITrck0sYpfvNR
+# AgEAAgEAAgEAAgEAAgEAMCEwCQYFKw4DAhoFAAQUEqKeWOJmn63XqZOr66lApQ1c
+# 562gggMkMIIDIDCCAgygAwIBAgIQfhPhJr2jWpBOT9kW3WMNrzAJBgUrDgMCHQUA
+# MBwxGjAYBgNVBAMTEUhMTVBvd2VyU2hlbGxDZXJ0MB4XDTE2MDYxOTAzMTcwM1oX
+# DTM5MTIzMTIzNTk1OVowHDEaMBgGA1UEAxMRSExNUG93ZXJTaGVsbENlcnQwggEi
+# MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCd2T6qlbisZAHJ1bk9CkDZgWDc
+# ScALB7o7/Zz6gTrWaAMha2jNyOxY8brhMVMpps79CE0Iz/sgfIOvTSOAk0EHHtZn
+# 4vQmAPLSuJmpaYN4JaCBUTRh16ojdDRly7x49FWyuOifkAloAKL9DTM+lfAfu7La
+# nQBmDGUzfRUgNwzd5gdtyJKvbXTNJfdkIhboIRVFT0cUWLNDk7/sDyrSvjEIh72R
+# hngN1U6GwgBIbLfuvzF3DPyHDMe/091mC/EhprKO2n8rx5/vQPaODxb4+OQM4Dow
+# VrzjAGqJrhcI+ifShRXQT5DCQqx0v0bmCAi42gCYIh5LSJJRFxxYOdduvvkzAgMB
+# AAGjZjBkMBMGA1UdJQQMMAoGCCsGAQUFBwMDME0GA1UdAQRGMESAECHHn0rHhc9g
+# 55Nir8PVAAehHjAcMRowGAYDVQQDExFITE1Qb3dlclNoZWxsQ2VydIIQfhPhJr2j
+# WpBOT9kW3WMNrzAJBgUrDgMCHQUAA4IBAQBGjg5kRESVoY3kL58o5XUENOwC5fpB
+# xKmPMrgbYpKiD7bEHoUfkZ5ShBNvlktPpfu2Xn3eAVtVfQM4zOw3n0zUybrMGaaN
+# Pe833xzupNtvnNic8/M/tV2lFBLb0CgV7Nfy3hc0VUsIaEcXjnGSJFjwuUfDM5m4
+# xSiaTvFRF2Lw2HTZvLP4MF9L1dXz2eCT+0VoHi29jYhVVzH60HNMVIgBByR6y/nI
+# asXDJt+9j5+jBqHkNEECKQguOzRrjNHCKYfuQ4IfVpzBA40gLrdjl3YZO5lztVY1
+# tKsgVKo83pIVyth1dKwdpSmoeeAxQS95ZnVww0xGC2GkSVSvoDme8HP4MYIB0TCC
+# Ac0CAQEwMDAcMRowGAYDVQQDExFITE1Qb3dlclNoZWxsQ2VydAIQfhPhJr2jWpBO
+# T9kW3WMNrzAJBgUrDgMCGgUAoHgwGAYKKwYBBAGCNwIBDDEKMAigAoAAoQKAADAZ
+# BgkqhkiG9w0BCQMxDAYKKwYBBAGCNwIBBDAcBgorBgEEAYI3AgELMQ4wDAYKKwYB
+# BAGCNwIBFTAjBgkqhkiG9w0BCQQxFgQUQ2axLmaqnl3V6f+fSKFGEBpbIqMwDQYJ
+# KoZIhvcNAQEBBQAEggEAkKSQvd957kh9roanBEqvO/gtaDfK8WAkA9qvouO1ucFX
+# JSc+U0qHk+1qsy71ZTEk1nYJq+9aRULSkHZ7d0SxMWEoBLhj7Pbzpa+cE61sK3Ox
+# YQ9XgTfd6PCH6UQd7SlVl4/hMeyr42L+xFgUZzgDirH0ly87pAAIgOo1YCWJLpgv
+# hYTpalS/qiCWWw316NGa2CKnrEmBhpZ8uu1gaUKDaQ8AwLCUIov5Y5IfTUBJz073
+# sF61blbsvk9qMKAk+3X4SDcW6ciIWn94HZXK/H2E8I/CfBOgyVXL1TiJ6zC26boF
+# tZd2P8thOPN7XYJfPR40i2Seygj33533JvzLLRyU1w==
+# SIG # End signature block
