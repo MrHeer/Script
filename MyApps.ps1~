@@ -59,18 +59,26 @@ Function WeSing.exe{
 }
 
 Function GitHub.exe{
-&'C:\Users\He Linming\Desktop\开发\GitHub.lnk'
+&'C:\Users\He Linming\Desktop\开发\GitHub.appref-ms'
 }
 
 Function GitShell.exe{
 &'C:\Users\He Linming\Desktop\开发\Git Shell.lnk'
 }
 
+Function Unity3D.exe{
+&'D:\Softwares\Unity\Editor\Unity.exe'
+}
+
+Function QQ.exe{
+&'D:\Softwares\Tencent\QQ\Bin\QQScLauncher.exe'
+}
+
 # SIG # Begin signature block
 # MIIFiwYJKoZIhvcNAQcCoIIFfDCCBXgCAQExCzAJBgUrDgMCGgUAMGkGCisGAQQB
 # gjcCAQSgWzBZMDQGCisGAQQBgjcCAR4wJgIDAQAABBAfzDtgWUsITrck0sYpfvNR
-# AgEAAgEAAgEAAgEAAgEAMCEwCQYFKw4DAhoFAAQUZEdnK/2hI5BNyLweFJu/Aast
-# +negggMkMIIDIDCCAgygAwIBAgIQfhPhJr2jWpBOT9kW3WMNrzAJBgUrDgMCHQUA
+# AgEAAgEAAgEAAgEAAgEAMCEwCQYFKw4DAhoFAAQUrEP4J481Nvqflwo3l3Uy5cGI
+# fK2gggMkMIIDIDCCAgygAwIBAgIQfhPhJr2jWpBOT9kW3WMNrzAJBgUrDgMCHQUA
 # MBwxGjAYBgNVBAMTEUhMTVBvd2VyU2hlbGxDZXJ0MB4XDTE2MDYxOTAzMTcwM1oX
 # DTM5MTIzMTIzNTk1OVowHDEaMBgGA1UEAxMRSExNUG93ZXJTaGVsbENlcnQwggEi
 # MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCd2T6qlbisZAHJ1bk9CkDZgWDc
@@ -90,11 +98,11 @@ Function GitShell.exe{
 # Ac0CAQEwMDAcMRowGAYDVQQDExFITE1Qb3dlclNoZWxsQ2VydAIQfhPhJr2jWpBO
 # T9kW3WMNrzAJBgUrDgMCGgUAoHgwGAYKKwYBBAGCNwIBDDEKMAigAoAAoQKAADAZ
 # BgkqhkiG9w0BCQMxDAYKKwYBBAGCNwIBBDAcBgorBgEEAYI3AgELMQ4wDAYKKwYB
-# BAGCNwIBFTAjBgkqhkiG9w0BCQQxFgQU2VV32UNH8C6O4VHI3oS5rYGXq9UwDQYJ
-# KoZIhvcNAQEBBQAEggEAbodqBd4ggVrkc12Y2OJZ5idIPiLZZMPpn1lDUog/z6lz
-# B69mrjH//uGIsWuJqVycpwIVtq0nhUZJ9F8c2vkGd9zjwOEXOd6ya+zTntHuqqPg
-# EhwvAQR/ncEYG7/WS7tAX90K7GYJt5iytxXEe1hGj3ofpNopoj1mhXx/JraknClv
-# mt4FZOV/56pJLznJCQTDVJ/y0c+x7bcZgxRzj3mtQP1sGbkXcScgfqswe8ugtagf
-# 7bUk1FQCkIa4qWZb5XEPYrEb3UHK6liCjBOeVFkB28u2/1zNYD/v7QGlJOpWmO7D
-# +YVXQ+dnJE0n2bxyDJ1XntJaiJDWKkCyfzr+jOuutQ==
+# BAGCNwIBFTAjBgkqhkiG9w0BCQQxFgQUM5nJbTWww6c4PlrWjKLq1W2Ocj0wDQYJ
+# KoZIhvcNAQEBBQAEggEAc3M7wN7gSnsliUO54PxpY52//sEBuYzDn3e/edsTWIg/
+# 1Hzp9+EtecITnPuU0ODRfNUMVosnpQqyzk46kdrfbxwYMWnNKbw9lBN3QSNf3XJj
+# aNw9K+/HiMZXjM93vc61PC1ce6sPqOmY+yKh+5Ulr48l9zqZ9dzZlqaRykCshWJr
+# 3zJh2ef+LJ0AzW+E6ehGZdm3kBPEx2AeuPePNhNlpKdbSig+U8I+aWHqG2epF8bf
+# LQro8yG39zBpNhY91xHTy74g+J2hYzVAxxZ8k9mRYGhoItSilp6bZGWiZD/mkSTU
+# +5jcPapb2IrjE/tZxk6oQRFHCguIrQdSaEq/eppQ7w==
 # SIG # End signature block
