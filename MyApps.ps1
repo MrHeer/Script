@@ -23,7 +23,7 @@ Function Ae.exe{
 }
 
 Function VS.exe{
-&'D:\Softwares\Microsoft Visual Studio 12.0\Common7\IDE\devenv.exe'
+&'D:\Softwares\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe'
 }
 
 Function liebao.exe{
