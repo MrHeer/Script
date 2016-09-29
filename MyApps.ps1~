@@ -1,9 +1,3 @@
-Function isok{
-If (!$?){
-echo "Please check your path!"
-}
-}
-
 Function YouKu.exe{
 &'D:\Softwares\youkuclient\YoukuDesktop.exe'
 }
@@ -33,8 +27,7 @@ Function VS.exe{
 }
 
 Function liebao.exe{
-&'D:\Program Files\liebao\lisebao.exe'
-isok
+&'D:\Program Files\liebao\liebao.exe'
 }
 
 Function WiFi.exe{
@@ -88,8 +81,8 @@ Function ProtelDXP.exe{
 # SIG # Begin signature block
 # MIIFiwYJKoZIhvcNAQcCoIIFfDCCBXgCAQExCzAJBgUrDgMCGgUAMGkGCisGAQQB
 # gjcCAQSgWzBZMDQGCisGAQQBgjcCAR4wJgIDAQAABBAfzDtgWUsITrck0sYpfvNR
-# AgEAAgEAAgEAAgEAAgEAMCEwCQYFKw4DAhoFAAQUIvlJYJI97AUhgZoYmwJwVRkA
-# XRqgggMkMIIDIDCCAgygAwIBAgIQfhPhJr2jWpBOT9kW3WMNrzAJBgUrDgMCHQUA
+# AgEAAgEAAgEAAgEAAgEAMCEwCQYFKw4DAhoFAAQUkF5jtG0C48Cls0r6ngk6qPVc
+# 2UGgggMkMIIDIDCCAgygAwIBAgIQfhPhJr2jWpBOT9kW3WMNrzAJBgUrDgMCHQUA
 # MBwxGjAYBgNVBAMTEUhMTVBvd2VyU2hlbGxDZXJ0MB4XDTE2MDYxOTAzMTcwM1oX
 # DTM5MTIzMTIzNTk1OVowHDEaMBgGA1UEAxMRSExNUG93ZXJTaGVsbENlcnQwggEi
 # MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCd2T6qlbisZAHJ1bk9CkDZgWDc
@@ -109,11 +102,11 @@ Function ProtelDXP.exe{
 # Ac0CAQEwMDAcMRowGAYDVQQDExFITE1Qb3dlclNoZWxsQ2VydAIQfhPhJr2jWpBO
 # T9kW3WMNrzAJBgUrDgMCGgUAoHgwGAYKKwYBBAGCNwIBDDEKMAigAoAAoQKAADAZ
 # BgkqhkiG9w0BCQMxDAYKKwYBBAGCNwIBBDAcBgorBgEEAYI3AgELMQ4wDAYKKwYB
-# BAGCNwIBFTAjBgkqhkiG9w0BCQQxFgQUOrQb5NZC9Xaj7xo/Phh7DswPKQwwDQYJ
-# KoZIhvcNAQEBBQAEggEAQmZfu1BO/momhz2Vqzw0OaALbEiDkBy+i8ASRr+ecSuY
-# 0SfXRZOfUoqfBAmGgm8tq+bWTwAnnOTj7WGxWHxUkRhAdPLlwFAjX8efoU5x0t1i
-# kx84M9RhtgbQg3Zw7x2p+CxO60yel69GojPqBSQTgglwfHkkqO7dsjZ6S26MzO8R
-# Z/o5j3X5hr4mEsLWKgn2P/+BZtaYX12ufpQrS5nfNTYEKUfH3GLpExzv6BHPM9Uy
-# GedMz5ZNtqgRZyhYmthg9N+CmWSXUaUsXX2xx2xTjx2YnEHMhUTgMiGFIdItHo2f
-# vpfoTL0/q/0XC7MdrZIHKWgYsxNWdX7fCadFNd72XQ==
+# BAGCNwIBFTAjBgkqhkiG9w0BCQQxFgQU/ZrqAXhDvaG2Vd88D52jcOv2KcAwDQYJ
+# KoZIhvcNAQEBBQAEggEAcQKntMSQuZkTVRJnuX74qgWO1coomU+zAm0IJvOkFtgM
+# ZL5d62OKlanymstVpoiwD3JcgMzWDg123SLhF3/5tUeUw68Zsbnz00PaZJhiVdFU
+# R4Y77N8Wtl4kZZ1pKqpu8QXLPcdVjdmmQ63w3PJswAIBk0G0GNSbVGQPv04vGNRV
+# 5SQl0o3VbpMDIHOPPl0ApfKLrmvWkpUpdKYKAmh/CeVCdppf+lKXPLU3EE/MGAVJ
+# iBpql4o2ak1Ct1sbqtXUUqpym3r8Bl9JWtJlKXmctxZBkJBNEdsLRhvAQjM3fRx1
+# t8J6GWBIyMOPt+l+S19Feys32VQKhttdsH9GiwHe/Q==
 # SIG # End signature block
