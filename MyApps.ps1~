@@ -70,8 +70,8 @@ Function Unity3D.exe{
 &'D:\Softwares\Unity\Editor\Unity.exe'
 }
 
-Function QQ.exe{
-&'D:\Softwares\Tencent\QQ\Bin\QQScLauncher.exe'
+Function IDEA.exe{
+&'D:\Softwares\IntelliJ IDEA Community Edition 2016.2.4\bin\idea64.exe'
 }
 
 Function ProtelDXP.exe{
@@ -82,11 +82,15 @@ Function quartus.exe{
 &'D:\Softwares\Altera\altera_lite\16.0\quartus\bin64\quartus.exe'
 }
 
+Function xampp-control.exe{
+&'D:\Softwares\xampp\xampp-controlexe'
+}
+
 # SIG # Begin signature block
 # MIIFiwYJKoZIhvcNAQcCoIIFfDCCBXgCAQExCzAJBgUrDgMCGgUAMGkGCisGAQQB
 # gjcCAQSgWzBZMDQGCisGAQQBgjcCAR4wJgIDAQAABBAfzDtgWUsITrck0sYpfvNR
-# AgEAAgEAAgEAAgEAAgEAMCEwCQYFKw4DAhoFAAQUQUQNic1Kgg1jn00Qhw7xKe4O
-# wQ+gggMkMIIDIDCCAgygAwIBAgIQfhPhJr2jWpBOT9kW3WMNrzAJBgUrDgMCHQUA
+# AgEAAgEAAgEAAgEAAgEAMCEwCQYFKw4DAhoFAAQUMOrH+JyLCB2cp0/wngz3A8pR
+# kXGgggMkMIIDIDCCAgygAwIBAgIQfhPhJr2jWpBOT9kW3WMNrzAJBgUrDgMCHQUA
 # MBwxGjAYBgNVBAMTEUhMTVBvd2VyU2hlbGxDZXJ0MB4XDTE2MDYxOTAzMTcwM1oX
 # DTM5MTIzMTIzNTk1OVowHDEaMBgGA1UEAxMRSExNUG93ZXJTaGVsbENlcnQwggEi
 # MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCd2T6qlbisZAHJ1bk9CkDZgWDc
@@ -106,11 +110,11 @@ Function quartus.exe{
 # Ac0CAQEwMDAcMRowGAYDVQQDExFITE1Qb3dlclNoZWxsQ2VydAIQfhPhJr2jWpBO
 # T9kW3WMNrzAJBgUrDgMCGgUAoHgwGAYKKwYBBAGCNwIBDDEKMAigAoAAoQKAADAZ
 # BgkqhkiG9w0BCQMxDAYKKwYBBAGCNwIBBDAcBgorBgEEAYI3AgELMQ4wDAYKKwYB
-# BAGCNwIBFTAjBgkqhkiG9w0BCQQxFgQUz+X/dZvMk7fJd75fPrhVzletPkUwDQYJ
-# KoZIhvcNAQEBBQAEggEAkMntABU3mSDSpPXH1odyOJOwP2O9iHi+zDB2cZuFca4V
-# lpc5mBkaJvIfkLtv6GcPylI0h3bvhAhDTe2YM7PoDHXrHEJqgGPhlArzlR6cGa0v
-# Wt0FvNDqdRvSixkgrmDK7oHFWhiGcpY15cp8qXBtW6SvnkBOhnRb7QBtNRUWnapB
-# iXlYj17imjvalRMFZsJW3OyURhmGVpoAQJGM/x3M7A9XxIaLLhVR6GdRciaJ85Q+
-# x3QXnsECzOXG4OGVYVhRw9zt9CIFRhClmzxrzS3Bht4d47Eedb2PnA6OzYBGIeA0
-# uWVF7T1xflSt+P4bPaXyZX9JIIbeOL90R6VlH7mplw==
+# BAGCNwIBFTAjBgkqhkiG9w0BCQQxFgQUY4ZHGAS7WSdtgq6Hr8DXiOehLSQwDQYJ
+# KoZIhvcNAQEBBQAEggEAEQwCTobZJ8tk7q1wZNHhVgp8tJvT0BaSgPsQrFb4itTm
+# 1xRNMDDS4vC2So75F6pEMYkl3kPTrD5KAZKyZb7EhJEGN4MQz6uKWhNMNVKQRB+1
+# dMTivHYi7Cq8NpiXUvgnn+Khv3bB6FaGET4TQp4ZjJ4K+4ZJXBdC+kjUhdCJ8RTm
+# dy4NZVsFHX6zseT4Q3y45HCCjKGn8zN4vpvTayL53ufj5ntWvnRA5WWa6ZRSB6FL
+# XAXGQLBkfIAa4S2Yu5yNQG6wF1qD35cxZBeXc51Lm+C6kYRNpjNdkm0UZpDi90Jq
+# fnsYOPzgizf6VaoSOOA+1jyWdGzIrcCVcJSgJdLfsg==
 # SIG # End signature block
