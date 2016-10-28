@@ -26,8 +26,8 @@ Function VS.exe{
 &'D:\Softwares\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe'
 }
 
-Function liebao.exe{
-&'D:\Program Files\liebao\liebao.exe'
+Function Chrome.exe{
+&'C:\Program Files (x86)\Google\Chrome\Application\chrome.exe'
 }
 
 Function WiFi.exe{
@@ -89,8 +89,8 @@ Function xampp-control.exe{
 # SIG # Begin signature block
 # MIIFiwYJKoZIhvcNAQcCoIIFfDCCBXgCAQExCzAJBgUrDgMCGgUAMGkGCisGAQQB
 # gjcCAQSgWzBZMDQGCisGAQQBgjcCAR4wJgIDAQAABBAfzDtgWUsITrck0sYpfvNR
-# AgEAAgEAAgEAAgEAAgEAMCEwCQYFKw4DAhoFAAQUxOKt8Z28INI6nslmPUKTQZzx
-# Xl6gggMkMIIDIDCCAgygAwIBAgIQfhPhJr2jWpBOT9kW3WMNrzAJBgUrDgMCHQUA
+# AgEAAgEAAgEAAgEAAgEAMCEwCQYFKw4DAhoFAAQUfdNy5K+hqtNjuZQYqqr5+A0m
+# BBmgggMkMIIDIDCCAgygAwIBAgIQfhPhJr2jWpBOT9kW3WMNrzAJBgUrDgMCHQUA
 # MBwxGjAYBgNVBAMTEUhMTVBvd2VyU2hlbGxDZXJ0MB4XDTE2MDYxOTAzMTcwM1oX
 # DTM5MTIzMTIzNTk1OVowHDEaMBgGA1UEAxMRSExNUG93ZXJTaGVsbENlcnQwggEi
 # MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCd2T6qlbisZAHJ1bk9CkDZgWDc
@@ -110,11 +110,11 @@ Function xampp-control.exe{
 # Ac0CAQEwMDAcMRowGAYDVQQDExFITE1Qb3dlclNoZWxsQ2VydAIQfhPhJr2jWpBO
 # T9kW3WMNrzAJBgUrDgMCGgUAoHgwGAYKKwYBBAGCNwIBDDEKMAigAoAAoQKAADAZ
 # BgkqhkiG9w0BCQMxDAYKKwYBBAGCNwIBBDAcBgorBgEEAYI3AgELMQ4wDAYKKwYB
-# BAGCNwIBFTAjBgkqhkiG9w0BCQQxFgQUHzt/D/OY4x+2i9g+MCd11JpgLrwwDQYJ
-# KoZIhvcNAQEBBQAEggEASFsoGcERhQU9R6QKb9VW45H0FOKvp2jmXZ6bgMl46g6l
-# U+Fravb7TfNZg1iF1KboLlhH7j3ri/J3EkMWXmrlA0rLeIn/HUeeGrjLS3y6StNA
-# E/pZmjCRoaIvu5jSu4/VD+B8qYsGQW7dYyv+DPTUFQuKpnvtlRhIp5y8V6RzNNUQ
-# b3hjFQTCpfi96Stfa/MsNKa51Dwyp1desbeQVlzFmkvamH2ftvHLwQXfdoM//13x
-# 4FJEv5MSbEF1SRriR0bUnO6B1pols4y9SYHOTMpVrX+GugCQuJIMnX70Qxg/laCn
-# HHjqVYdFORMN1rteUiVi2J8OeodO2nc26AtAsOrJzA==
+# BAGCNwIBFTAjBgkqhkiG9w0BCQQxFgQUSs5E/w4Tb+frwleeOpV48NmH4yUwDQYJ
+# KoZIhvcNAQEBBQAEggEAJ2+3NpddkSo5XU0fUKeuuvafQ5PfsRdjgb9VSwET5gkU
+# a5NB7iDW6TxIN6th7/dixUcMsL0ojfYdC/01tJXfPmT1YVZ4xzeeMxUgBOy/2Suf
+# cFgXAQegDID5abFh0ZuXV6Vu+K9HDV/OM/3id5+FWV51fp+zYCJDip+KepMxV3hP
+# c3pBue8WRba1dQ5m6YhJgTMlyVeL5/cH8oqDEQN/pLSuxjefavlEBQ/PrHvemSdE
+# KtaseB1KSajOjSMpR6z08B0I9DQfcGPcUj14QTNJJy/BXlo4azEU0GGjsCgGIYAe
+# VHq/Hybkmvj4cFagj9fQJ5zl9XYt7PGv9h5a4woUVg==
 # SIG # End signature block
