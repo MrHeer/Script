@@ -1,20 +1,20 @@
 ﻿If (!(Test-Path 'D:\Desktop\')){
 echo "File does not exist, copying......"
-cp 'C:\Users\He Linming\Desktop\' D: -Recurse -Force
+cp "$HOME\Desktop\" D: -Recurse -Force
 }
 Else{
 echo "File exist, removing......"
 rm 'D:\Desktop\' -Recurse -Force
 echo "Copying......"
-cp 'C:\Users\He Linming\Desktop\' D: -Recurse -Force
+cp "$HOME\Desktop\" D: -Recurse -Force
 }
 echo "Done!"
 
 # SIG # Begin signature block
 # MIIFiwYJKoZIhvcNAQcCoIIFfDCCBXgCAQExCzAJBgUrDgMCGgUAMGkGCisGAQQB
 # gjcCAQSgWzBZMDQGCisGAQQBgjcCAR4wJgIDAQAABBAfzDtgWUsITrck0sYpfvNR
-# AgEAAgEAAgEAAgEAAgEAMCEwCQYFKw4DAhoFAAQUOCrn2P2YpoZ3u3watuuY4SHM
-# 4cKgggMkMIIDIDCCAgygAwIBAgIQfhPhJr2jWpBOT9kW3WMNrzAJBgUrDgMCHQUA
+# AgEAAgEAAgEAAgEAAgEAMCEwCQYFKw4DAhoFAAQU1Z8INPnuUGFosfDs/Le77QnN
+# 9f6gggMkMIIDIDCCAgygAwIBAgIQfhPhJr2jWpBOT9kW3WMNrzAJBgUrDgMCHQUA
 # MBwxGjAYBgNVBAMTEUhMTVBvd2VyU2hlbGxDZXJ0MB4XDTE2MDYxOTAzMTcwM1oX
 # DTM5MTIzMTIzNTk1OVowHDEaMBgGA1UEAxMRSExNUG93ZXJTaGVsbENlcnQwggEi
 # MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCd2T6qlbisZAHJ1bk9CkDZgWDc
@@ -34,11 +34,11 @@ echo "Done!"
 # Ac0CAQEwMDAcMRowGAYDVQQDExFITE1Qb3dlclNoZWxsQ2VydAIQfhPhJr2jWpBO
 # T9kW3WMNrzAJBgUrDgMCGgUAoHgwGAYKKwYBBAGCNwIBDDEKMAigAoAAoQKAADAZ
 # BgkqhkiG9w0BCQMxDAYKKwYBBAGCNwIBBDAcBgorBgEEAYI3AgELMQ4wDAYKKwYB
-# BAGCNwIBFTAjBgkqhkiG9w0BCQQxFgQUjtAcGa5SyxiGTJ0fViPZfWmTEcAwDQYJ
-# KoZIhvcNAQEBBQAEggEAGR0dFfEf6c7R0Tc+ArG2omYjL+bwulQetxKEs/LG1k86
-# ztqwcpsVEqDOllxRH5fLrvQPDk+1fyKLT1w3Ig7NZwzbTvXHEn5e6lVRprTUk7Ip
-# ubv9HYXmeooe6CqcyI2TcrO/0k9T0sELixQm5yvDvcWWxywwb5yQA4OeWFzTZ4Rf
-# kuf9AcXjZXxQuhrno10Wf3l2yAbRF5IHFgK4kNjKayysfUNji99/oc+EtJsElaEs
-# 8k1Ek9AYWFa9eCufXbspmfeHOtvOMkr3BISHSVLekXWPhfVuG7MtTUJ1dTsUyzpd
-# 3j6O5BzS0ImY6phnL3wWG20XjyrAWyTItuIMmXIW/A==
+# BAGCNwIBFTAjBgkqhkiG9w0BCQQxFgQU88eWbsaI+07NSwcs3LAlvEni//swDQYJ
+# KoZIhvcNAQEBBQAEggEAcRzs7v+2/h9tfdQF2EHUc3FY1UNy5840u9WgAWULSwD7
+# KY4mSs808l4VZ58PDo6CcqEfnJ/8R8cvz9rZpuch+btNQJ8W51T64DLEr9Q4hUxw
+# teSF/FYtJwg3QqHchlWrfyUJMVwQtyPQeE+3Jdtt2FuMNN/vHq8V6Z2D3UapyUCT
+# jX/CWzTHm3fBKgAAqPB1IljHaZUZujSBZDk7YVx4a/WU9T7AMFwdFmOHr7idSNFn
+# LzmKOul/onhbjdABFLeX5p1FhHL1bxKkBaU2h4hWMgsryIm7Vu/yOcZ01Aic/jiD
+# D+62xXTRPhrhLVNKusWizD7w2g6OFUq1+Hlz6U0QMA==
 # SIG # End signature block
