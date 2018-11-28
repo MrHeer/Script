@@ -7,7 +7,7 @@ RES='\033[0m'
 capacity_info=$(cat /sys/class/power_supply/BAT1/capacity)
 status_info=$(cat /sys/class/power_supply/BAT1/status)
 
-if [[ $status_info == 'Charging' ]] ; then
+if [[ $status_info == 'Charging' || $status_info == 'Full' ]] ; then
     echo -e "${GREEN}Remaining battery: ${capacity_info}%, ${status_info}${RES}"
 else
     if (( $capacity_info >= 30 )) ; then
