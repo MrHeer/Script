@@ -26,7 +26,7 @@ Windows Registry Editor Version 5.00
 ;4.2个字节。 表示原按键的“扫描码”。格式同上。
 ;5.以四个 00 结束。
  
-;[键盘扫描码]
+;[键盘扫描码](https://www.win.tue.nl/~aeb/linux/kbd/scancodes-1.html)
 
 ;以十六进制表示，分两部份，0X后面两个数是扫描码，最后两个数是 ASCII 码（可忽略）。如　0x011b  ESC　扫描码是01。
 
