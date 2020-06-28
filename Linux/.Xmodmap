@@ -1,5 +1,8 @@
 ! reference https://wiki.archlinux.org/index.php/Xmodmap
-clear control
-clear mod1
-add control = Control_L Alt_R
-add mod1 = Alt_L Control_R Meta_L
+!Swap right control and right alt
+remove control = Control_R
+remove mod1 = Alt_R
+keycode 105 = Alt_R
+keycode 108 = Control_R
+add control = Control_R
+add mod1 = Alt_R
