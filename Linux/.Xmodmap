@@ -1,5 +1,5 @@
 ! reference https://wiki.archlinux.org/index.php/Xmodmap
-!Swap right control and right alt
+! Swap right control and right alt
 remove control = Control_R
 remove mod1 = Alt_R
 keycode 105 = Alt_R
