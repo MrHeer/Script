@@ -2,6 +2,8 @@ set nocompatible
 filetype plugin on
 syntax on
 :let mapleader = ","
+let g:vimwiki_list = [{'path': '~/vimwiki/',
+                      \ 'syntax': 'markdown', 'ext': '.md'}]
 
 " set the runtime path to include Vundle and initialize
 set rtp+=~/.vim/bundle/Vundle.vim
