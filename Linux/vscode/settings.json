@@ -1,0 +1,19 @@
+{
+    "workbench.colorTheme": "Solarized Light",
+    "editor.tabSize": 2,
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.fontFamily": "'Cascadia Code PL', 'MesloLGS NF', Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 14,
+    "workbench.iconTheme": "vscode-icons",
+    "svg.preview.mode": "svg",
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "cSpell.userWords": [
+        "Gantt"
+    ],
+    
+}
