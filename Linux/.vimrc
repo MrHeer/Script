@@ -1,6 +1,7 @@
 set nocompatible
 filetype plugin on
 syntax on
+:let mapleader = ","
 
 " set the runtime path to include Vundle and initialize
 set rtp+=~/.vim/bundle/Vundle.vim
