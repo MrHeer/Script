@@ -1,6 +1,8 @@
 #!/bin/bash
 
-cd /Users/mrheer/Documents/LogseqWiki
+LOGSEQ_WIKI_DIR=$HOME/Source/MrHeer/LogseqWiki
+
+cd $LOGSEQ_WIKI_DIR
 if [[ -z $(git status -s) ]]; then
   echo 'git clean, do noting.'
 else
