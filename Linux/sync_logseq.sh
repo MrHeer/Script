@@ -1,8 +1,8 @@
 #!/bin/bash
 
-LOGSEQ_WIKI_DIR=$HOME/Source/MrHeer/LogseqWiki
+LOGSEQ_WIKI_DIR=$HOME/Documents/LogseqWiki
 
-cd $LOGSEQ_WIKI_DIR
+cd "$LOGSEQ_WIKI_DIR" || exit
 if [[ -z $(git status -s) ]]; then
   echo 'git clean, nothing to add.'
 else
